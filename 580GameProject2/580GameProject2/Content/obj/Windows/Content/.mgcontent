@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/azonixFont.spritefont</File>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/azonixFontBig.spritefont</File>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/badMove.wav</File>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/dancer.png</File>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/File.spritefont</File>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/goodMove.wav</File>
+    <File>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/POL-its-a-blast-short.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>defaultFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File>backgroundMusic.wav</File>
+  </DestFiles>
+</SourceFileCollection>

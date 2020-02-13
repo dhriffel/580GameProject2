@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/goodMove.wav</SourceFile>
+  <SourceTime>2020-02-12T16:46:24.8882126-06:00</SourceTime>
+  <DestFile>C:/Users/riffe/source/repos/580GameProject2/580GameProject2/580GameProject2/Content/bin/Windows/Content/goodMove.xnb</DestFile>
+  <DestTime>2020-02-12T16:49:40.9191036-06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
